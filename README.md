@@ -1,6 +1,6 @@
 # Timestamp Microservice
 -----------------------------------------------------------------------------------
-## [Free Code Camp](http://www.freecodecamp.com)) Back End Certification
+## [Free Code Camp](http://www.freecodecamp.com) Back End Certification
 ### API Project n.01 - Timpestamp Microservice
 -----------------------------------------------------------------------------------
 __Technologies used__:
