@@ -3,10 +3,10 @@
 ## [Free Code Camp](http://www.freecodecamp.com)) Back End Certification
 ### API Project n.01 - Timpestamp Microservice
 -----------------------------------------------------------------------------------
+Technologies used: Node, Express, Javascript, HTML, CSS and Bootstrap
+Developed in Glitch and Deloyed/Hosted in Heroku
 
-
-
-
+![my profile photo](http://res.cloudinary.com/evedes/image/upload/c_scale,w_150/v1483576770/PROFILE_PIC_e9crwf.jpg)
 
 -----------------------------------------------------------------------------------
 #### OBJECTIVE:
