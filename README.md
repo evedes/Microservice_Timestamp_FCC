@@ -9,7 +9,7 @@ Developed in Glitch and Deloyed/Hosted in Heroku
 
 ![my profile photo](http://res.cloudinary.com/evedes/image/upload/c_scale,w_150/v1483576770/PROFILE_PIC_e9crwf.jpg)
 
-Hi guys! I'm Eduardo Vedes (@evedes) and I've challenged myself in the first of January to reboot my career in 360 days. I've chosen to pursue a Full Stack Developer career. In order to achieve that I've started studying and practicing along in [Free Code Camp](http://www.freecodecamp.com).
+Hi guys! I'm Eduardo Vedes (@evedes) and I've challenged myself in the first of January to reboot my career in 360 days. I've chosen to pursue a Full Stack Developer career. In order to achieve that I've started studying and practicing along in [Free Code Camp](http://www.freecodecamp.com). I've already completed the Front End Certification Program and now I'm focused on the BackEnd Cert. I'm learning how to develop solutions with node.js + express + mongoDB.
 
 This is my first API Project. I hope you like it!
 
