@@ -23,3 +23,5 @@ NOTE: for each project, you should create a new GitHub repository and a new Glit
 3. If it does not contain a date or Unix timestamp, it returns null for those properties.
 
 ------------------------------------------------------------------------------------
+
+Copyright &copy; 2017 | EVEDES | MIT License
