@@ -1,0 +1,34 @@
+{
+  "name": "microservice_timestamp_fcc",
+  "version": "1.0.0",
+  "description": "Free Code Camp - Back End Certification - API Project 01 - Timestamp Microservice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evedes/Microservice_Timestamp_FCC.git"
+  },
+  "keywords": [
+    "fcc",
+    "backend",
+    "cert",
+    "api",
+    "project",
+    "microservice",
+    "timestamp"
+  ],
+  "author": "Eduardo Vedes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evedes/Microservice_Timestamp_FCC/issues"
+  },
+  "homepage": "https://github.com/evedes/Microservice_Timestamp_FCC#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
