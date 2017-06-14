@@ -11,7 +11,8 @@
 -----------------------------------------------------------------------------------
 __Technologies used__:
 Node, Express, Javascript, HTML, CSS and Bootstrap
-Developed in Glitch and Deloyed/Hosted in Heroku
+Developed and Hosted in Glitch.com: https://www.glitch.com
+
 
 ![my profile photo](http://res.cloudinary.com/evedes/image/upload/c_scale,w_150/v1483576770/PROFILE_PIC_e9crwf.jpg)
 
