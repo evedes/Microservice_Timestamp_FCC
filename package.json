@@ -26,7 +26,8 @@
   },
   "homepage": "https://github.com/evedes/Microservice_Timestamp_FCC#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "moment": "^2.18.1"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
